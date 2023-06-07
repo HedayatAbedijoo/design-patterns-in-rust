@@ -12,6 +12,10 @@ level = 1
 
 [output.html]
 additional-css = ["./styles.css"]
+curly-quotes = true
+default-theme = "rust"
+git-repository-url = "https://github.com/HedayatAbedijoo/design-patterns-in-rust"
+git-repository-icon = "fa-github"
 
 [build]
 build-dir = "docs"
