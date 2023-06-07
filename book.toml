@@ -12,3 +12,6 @@ level = 1
 
 [output.html]
 additional-css = ["./styles.css"]
+
+[build]
+build-dir = "docs"
