@@ -1,4 +1,8 @@
- <h1 style="color: green;">Design Patterns in Rust</h1>
+ <h2 style="color: green;">Design Patterns in Rust</h2>
+
+Published Here: https://hedayatabedijoo.github.io/design-patterns-in-rust/
+
+---
 
 # Creational Design Patterns
 
